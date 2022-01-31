@@ -1,6 +1,8 @@
 # hellopython in Docker 
 
 <pre>
+git clone https://github.com/Jaibw/hellopython.git
+cd hellopython
 docker images 
 cat Dockerfile
 cat hello.py
